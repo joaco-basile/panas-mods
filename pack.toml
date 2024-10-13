@@ -1,0 +1,13 @@
+name = "panas"
+author = "joaco"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2a2a8023db2f3101c29c7e7cc1c45710c4fb103e059d8581cc867218e0142430"
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.21.1"
